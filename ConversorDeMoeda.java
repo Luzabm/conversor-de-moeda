@@ -33,7 +33,7 @@ public class Conversor_de_Moeda {
 					Yuan_para_outro(quantidade);
 					break;
 				default:
-					System.out.println("Escolha entre os números 1, 2, 3, 4e 5: ");
+					System.out.println("Escolha entre os números 1, 2, 3, 4 e 5: ");
 			}
 			
 		}
